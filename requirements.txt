@@ -1,0 +1,10 @@
+pefile
+capstone
+virustotal-python
+requests
+pandas
+seaborn
+matplotlib
+pytest
+sklearn
+tensorflow
